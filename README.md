@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ejioforthaddeus
-- 👀 I’m a frontend developer..
-- 🌱 I’m currently learning c and backend development
-- 💞️ I’m looking to collaborate on any frontend work
+- 👀 I’m a fullstock web developer..
+- 🌱 I’m  enrolling in ALX Software development
+- 💞️ I’m looking to collaborate on any Web development work
 - 📫 How to reach me ..
 
 <!---
